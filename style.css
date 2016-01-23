@@ -1,0 +1,197 @@
+body {
+  color: #3f3f3f;
+  background-color: #ffffff;
+
+
+
+  font-size: 12px;
+  max-width : 448px; 
+  margin : auto;
+  font-family: "Arial";
+
+}
+
+a:link, a:active, a:visited {
+  color: #8B8682;
+  text-decoration: none;
+}
+
+a:hover, a:focus {
+  color: #C48556;
+}
+
+img {
+  vertical-align: middle;
+  border-style: none;
+}
+
+
+
+
+
+.header {
+  background-color: #ffffff;
+  background-image: url(images/header.png);
+border-top-left-radius:8px;
+
+}
+
+
+
+
+span.url {
+  position: absolute;
+  top: 34px;
+  left: 62px;
+}
+
+span.hh {
+  font-size: 20px;
+}
+
+.oline {
+  background-color: #febf01;
+  height: 4px;
+}
+
+.bline {
+  background-color: #92e0fa;
+  height: 3px;
+}
+
+
+
+
+
+
+.ot4 {
+  color : #DEE5EB;
+  background-color: #4D7198;
+}
+
+
+  
+
+
+
+
+.new {
+  color: #587CA3;
+  background-color: #E9EDF1;
+
+  padding: 6px;
+  border-bottom: 1px solid #DFDFDF;
+  margin-bottom: 1px;
+  border-bottom-left-radius:8px;
+  border-bottom-right-radius:8px;
+}
+
+.new a {
+  color: #88A4C2;
+  font-size : 11px;
+
+}
+
+
+
+
+
+.vib  {
+  color : #9F7E68;
+  background-color: #DEE5EB;
+  border-bottom: 1px solid #C4CACF;
+}
+
+
+.vib a {
+  color : #2B587A;
+}
+
+
+
+.vib2  {
+  color : #9F7E68;
+  background-image : url(images/b.png);
+  background-repeat: repeat-x;
+  background-position: 50% top; 
+  margin-bottom: 1px;
+}
+
+
+.vib2 a {
+  color : #2B587A;
+
+}
+
+
+
+
+
+
+
+.teg {
+  color : #9F7E68;
+  background-color: #4D7198;
+  height: 37px; 
+  background-image : url(images/r.png);
+  background-repeat: repeat-x;
+  background-position: 50% top; 
+}
+
+.but a {color: #D7E0E8;}
+.but {
+background: #88A4C2 url(but.gif) repeat-x top;
+padding: 2px 4px 2px 4px;
+-khtml-border-radius:3px;
+-moz-border-radius:3px;
+-webkit-border-radius:3px;
+border-radius:3px;
+}
+
+
+
+
+
+
+
+.tegt {
+  color: #616161;
+  background-color: #E9EDF1;
+  padding: 3px;
+}
+
+
+.tegt a {
+  color: #587CA3;
+  font-size : 11px;
+}
+
+
+
+
+
+
+.or {
+  color: #DEE5EB;
+  background-color: #F07E0B;
+  font-size : 11px;
+  font-weight : bold; 
+  background-image: url(images/orf.png);
+}  
+
+
+
+
+
+
+.copy {
+  color: #c7c7c7;
+  font-size: 10px;
+  text-align: right;
+  padding: 2px;
+}
+
+.copy a{
+  color: #c7c7c7;
+  font-size: 10px;
+}
